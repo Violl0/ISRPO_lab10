@@ -1,0 +1,14 @@
+C:\Users\maxim\source\repos\ISRPO_lab10\bin\Debug\net9.0\GuildOfHeroes_Katorzhin.exe
+C:\Users\maxim\source\repos\ISRPO_lab10\bin\Debug\net9.0\GuildOfHeroes_Katorzhin.deps.json
+C:\Users\maxim\source\repos\ISRPO_lab10\bin\Debug\net9.0\GuildOfHeroes_Katorzhin.runtimeconfig.json
+C:\Users\maxim\source\repos\ISRPO_lab10\bin\Debug\net9.0\GuildOfHeroes_Katorzhin.dll
+C:\Users\maxim\source\repos\ISRPO_lab10\bin\Debug\net9.0\GuildOfHeroes_Katorzhin.pdb
+C:\Users\maxim\source\repos\ISRPO_lab10\obj\Debug\net9.0\GuildOfHeroes_Katorzhin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\source\repos\ISRPO_lab10\obj\Debug\net9.0\GuildOfHeroes_Katorzhin.AssemblyInfoInputs.cache
+C:\Users\maxim\source\repos\ISRPO_lab10\obj\Debug\net9.0\GuildOfHeroes_Katorzhin.AssemblyInfo.cs
+C:\Users\maxim\source\repos\ISRPO_lab10\obj\Debug\net9.0\GuildOfHeroes_Katorzhin.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\ISRPO_lab10\obj\Debug\net9.0\GuildOfHeroes_Katorzhin.dll
+C:\Users\maxim\source\repos\ISRPO_lab10\obj\Debug\net9.0\refint\GuildOfHeroes_Katorzhin.dll
+C:\Users\maxim\source\repos\ISRPO_lab10\obj\Debug\net9.0\GuildOfHeroes_Katorzhin.pdb
+C:\Users\maxim\source\repos\ISRPO_lab10\obj\Debug\net9.0\GuildOfHeroes_Katorzhin.genruntimeconfig.cache
+C:\Users\maxim\source\repos\ISRPO_lab10\obj\Debug\net9.0\ref\GuildOfHeroes_Katorzhin.dll
