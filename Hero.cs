@@ -22,4 +22,20 @@ public class Hero {
             Health = 0;
         }
     }
+
+    public void Heal(int amount) {
+        if (amount <= 0) {
+            return;
+        }
+
+        Health += amount;
+    }
+
+    public void GainExperience(int amount) {
+        if (amount <= 0) {
+            return;
+        }
+
+        Experience += amount;
+    }
 }

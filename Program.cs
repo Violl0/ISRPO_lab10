@@ -15,6 +15,13 @@ Console.WriteLine($"После неверного урона: {yaroslav.Health}"
 artem.TakeDamage(200);
 Console.WriteLine($"После сильного урона, Артём: {artem.Health}");
 
+yaroslav.Heal(10);
+yaroslav.GainExperience(40);
+yaroslav.GainExperience(25);
+
+Console.WriteLine($"После лечения, Ярослав: {yaroslav.Health}");
+Console.WriteLine($"Опыт Ярослава: {yaroslav.Experience}");
+
 
 book first  = new book("Мастер и Маргарита",5,"роман",1290);
 book second = new book("Дюна",3,"фантастика",1590);
