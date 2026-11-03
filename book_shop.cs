@@ -12,4 +12,12 @@ public class book {
         Price = price;
         Availability = true;
     }
+
+    public void Restock(int amount) {
+        if (amount <= 0) {
+            return;
+        }
+
+        Count += amount;
+    }
 }

@@ -66,3 +66,11 @@ Console.WriteLine($"Наличие: {third.Availability}");
 Console.WriteLine($"Количество: {third.Count}");
 Console.WriteLine($"Жанр: {third.Genre}");
 Console.WriteLine($"Цена: {third.Price}");
+
+Console.WriteLine($"Количество Дюны до пополнения: {second.Count}");
+
+second.Restock(3);
+Console.WriteLine($"После пополнения на 3: {second.Count}");
+
+second.Restock(-2);
+Console.WriteLine($"После пополнения на -2: {second.Count}");
